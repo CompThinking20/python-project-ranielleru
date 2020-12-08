@@ -1,1 +1,4 @@
 So your input seems to be working as expected, which is great. You don't really need to wrap each of these input requests in a function: you could just have raw input in a sequence in the main space of the program. The next phase, I think, is going to be doing something with the user's input: what can you do to react to particular kind of input? That is, right now, the user is just inputting data, and your program is, in a way, indifferent to it. How can you change that and make the program both interactive and reactive?
+
+MILESTONE 2 COMMENTS
+You're definitely taking steps to respond to user input. I'd encourage you to keep taking steps with that, since it's still minimal. Perhaps consider looking up how to write a file with the output. That is, you could save the user's input in a text file called journal.txt or something. A quick google search for 'python write text file' should give you some instructions, and of course I'm always happy to help as well.
