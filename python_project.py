@@ -24,7 +24,7 @@ journal_archive = "YourJournal.txt"
 original = sys.stdout
 # I listed their fill-ins as the content of the file so that the user can access it
 filecontent = [str(fill_in), str(second_fill_in), str(third_fill_in)]
-# I think this opens the file for the user
+# I think this opens the file for the user's convenience. This will help with viewing past responses and seeing how far they've come.
 with open(journal_archive, "w") as filehandle:
     sys.stdout = filehandle
 

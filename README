@@ -1,0 +1,50 @@
+PROJECT OVERVIEW
+A Self-Reflection Journal that encourages fun and joy in vulnerability.
+The journal can be completed daily or weekly and is not meant to consume
+a lot of time. The user can customize their journal or use a default
+setting. The default consists of one or two questions every day,
+each with their own fill-in box where the user can type to their heart's
+desire. An example question: What's something you always believe dot be
+true about the world that you now see differently? At the end of the day,
+if the user logs back on, the user will be prompted with a recurring end-
+of-the-day question that will help one reflect on their day. It will ask
+the user to list two things they are thankful for, people they are
+thankful for, something they regret/feel remorseful for doing/not doing,
+and some highlights of the day. The journal will also store key words or
+most commonly used words in a weekly visual with the purpose of helping
+people become more self-aware with the type of language they use with
+themselves and in general.
+I managed to code the main portion of the journal down: prompting the user
+with questions and allowing them to type their own response.
+
+PROJECT NARRATIVE
+I knew I had to get the main part of the journal down.
+The raw-input lesson you posted helped. I needed a raw input option for the
+user but I know my project is different from the one you presented because
+the one in the video was more like a quiz with correct/incorrect answers.
+In my case, I just need allow the user to type their own response. I executed
+this part in Milestone 1. With Milestone 2, it was more difficult to figure
+out how to save the user's input because I don't remember learning that in
+lectures. You directed me to a link which helped. I think it would have
+helped if this class was synchronous so I can have live feedback on my code.
+I still have trouble applying the concepts I learned. I've also had trouble
+running my code to look for errors. I'm surprised at how little information
+I feel I could apply to make this project successful. I didn't meant to make
+the code so minimal but I didn't know how to even start with making new
+questions for each day, or the recurring end-of-the-day question I wanted,
+or the visual text of commonly used words. But it makes sense to not know
+how to do all of these things because everyone has different projects that
+need different concepts and you can't teach all of them at once. I learned
+some useful information from my parents who are (javascript) programmers,
+and friends with some or little experience in coding. It was a lot of
+teaching myself and applying what I can from lectures.
+
+CORRECTIONS
+Your Milestone 1 feedback suggested I create a more reactive response to the
+user's input. I didn't know what I could say in response to the user's input
+but I reminded myself of the goal of my project which is to encourage
+vulnerability but also make it fun. So I added some statements to promote
+more self-introspection even after they answer the question. Lines 11 and 17
+do this. Your Milestone 2 comments prompted me to create a text file of the
+user's input. I was able to find the proper section of the link you gave me
+in order to save the user's fill-in's into a file named YourJournal.txt.
