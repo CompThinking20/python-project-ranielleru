@@ -21,3 +21,6 @@ def question_three():
 # I also added another reactive response for their fill-in to boost the user's self-confidence!
     print "Response archived! Be proud of how far you've come and how much growth is ahead of you."
 question_three()
+
+journal_archive = open("Your Journal.txt", "r")
+journal_archive = close()
